@@ -10,4 +10,7 @@ for pergunta in lista:
     else: 
         print('Voce perdeu')
 
+        teste
+        
+
     
